@@ -1,0 +1,14 @@
+{
+  "name": "saludar",
+  "version": "1.0.0",
+  "description": "BootCamp Saludar",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Hello BootCamp"
+  ],
+  "author": "Estefano",
+  "license": "ISC"
+}
